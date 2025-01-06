@@ -12,17 +12,17 @@ This project uses a **Wasserstein GAN** with **Gradient Penalty (WGAN-GP)** to g
 
 ## Table of Contents
 
-1. [Project Overview](https://github.com/elnemr19/4-Shapes-DCGAN/tree/main?tab=readme-ov-file#project-overview)
+1. [Project Overview](https://github.com/elnemr19/Fashion-mnist-DCGAN/blob/main/README.md#project-overview)
 
-2. [Dataset](https://github.com/elnemr19/4-Shapes-DCGAN/tree/main?tab=readme-ov-file#dataset)
+2. [Dataset](https://github.com/elnemr19/Fashion-mnist-DCGAN/blob/main/README.md#dataset)
 
-3. [Model Architecture](https://github.com/elnemr19/4-Shapes-DCGAN/tree/main?tab=readme-ov-file#model-architecture)
+3. [Model Architecture](https://github.com/elnemr19/Fashion-mnist-DCGAN/blob/main/README.md#model-architecture)
 
-4. [Loss Functions](https://github.com/elnemr19/4-Shapes-DCGAN/tree/main?tab=readme-ov-file#loss-functions)
+4. [Loss Functions](https://github.com/elnemr19/Fashion-mnist-DCGAN/blob/main/README.md#loss-functions)
 
-5. [Training Details](https://github.com/elnemr19/4-Shapes-DCGAN/tree/main?tab=readme-ov-file#training-details)
+5. [Training Details](https://github.com/elnemr19/Fashion-mnist-DCGAN/blob/main/README.md#training-details)
 
-6. [Results](https://github.com/elnemr19/4-Shapes-DCGAN/tree/main?tab=readme-ov-file#results)
+6. [Results](https://github.com/elnemr19/Fashion-mnist-DCGAN/blob/main/README.md#results)
 
 
 
